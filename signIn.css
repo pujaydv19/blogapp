@@ -1,0 +1,40 @@
+.signIn{
+    background-image: url(https://wallpaper.dog/large/748018.jpg);
+    background-size: cover;   
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginForm{
+    background-image: url(https://wallpaper.dog/large/748018.jpg);
+    padding: 70px;
+    border: 1px solid rgb(129,121,121);
+    border-radius: 1px;
+    background-size: cover;
+}
+.loginForm2{
+    background-size: cover;   
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-family: 'Lumanosimo', cursive;
+}
+#login-btn{
+    background-color: #b4b7bc;
+    bottom: none;
+    border-radius: 20;
+    color: rgb(255, 255, 8);
+    font-weight: bold;
+    padding: 5px 5px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 8px;
+    font-family: 'Lumanosimo', cursive;
+}
+.signUpLogo{
+    position: relative;
+    bottom: 30px;
+}

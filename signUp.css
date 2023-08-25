@@ -1,0 +1,70 @@
+.signUp{
+    background-image:url(https://wallpaper.dog/large/748018.jpg);
+ background-size: cover;   
+ flex: 1;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.form-container{
+   background-image: url(https://wallpaper.dog/large/748018.jpg);
+   background-size: cover;
+    padding: 30px;
+    border: 1px solid rgb(129,121,121);
+    border-radius: 0px;
+}
+.signUpLogo{
+    width: 100px;
+    object-fit: contain;
+    padding: 10px 0px;
+    width: 30%;
+    border-radius: 1000%;
+
+
+}
+
+.loginpara{
+    color: rgba(var(--f52,142,142,142)1);
+    font-size: 17px;
+    font-weight: 50;
+    line-height: 20px;
+    margin: 0px 40px 20px 40px;
+    font-family: 'Lumanosimo', cursive;
+}
+
+input{
+    padding: 5px;
+    margin: 3px 0px;
+    outline: none;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    color:aliceblue;
+    font-family: 'Lumanosimo', cursive;
+}
+.form > div{
+    width: 80%;
+    margin: auto;
+}
+#submit-btn{
+    background-color: #b4b7bc;
+    bottom: none;
+    border-radius: 20;
+    color: rgb(255, 255, 8);
+    font-weight: bold;
+    padding: 5px 10px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 8px;
+    font-family: 'Lumanosimo', cursive;
+}
+.form2{
+   
+ background-size: cover;   
+ flex: 1;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-top: 5px;
+ font-family: 'Lumanosimo', cursive;
+}

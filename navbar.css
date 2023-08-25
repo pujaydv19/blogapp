@@ -1,0 +1,26 @@
+img{
+    width: 3%;
+    object-fit: contain;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 5px 5px #e0dcdc;
+}
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding: 1px 18px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-style: 18px;
+}
+.nav-menu{
+    font-family: 'Lumanosimo', cursive; 
+}
